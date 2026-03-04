@@ -1,4 +1,4 @@
-# Emotion Detection API
+# Final Project — Emotion Detection API
 
 Este proyecto implementa una API sencilla en Flask que detecta emociones básicas a partir de texto enviado por el usuario.
 
